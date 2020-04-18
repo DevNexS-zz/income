@@ -13,4 +13,4 @@ function done(){
     console.log("i have finished it!");
 }
 
-learnJS("JavaScript", done);
+learnJS("JavaScript", done); 
