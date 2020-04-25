@@ -72,3 +72,5 @@ john.__proto__ = soldier;
 console.log(john);
 console.log(john.armor);
 
+
+

@@ -132,3 +132,5 @@ let appData = {
 // }
 // while(i < 2);
 
+let x = 5; alert( x++ ); 
+console.log(x);
